@@ -11,7 +11,7 @@ If you have an answer to a question, please [open a pull request](https://github
 
 ## Basics
 
-- [Why Privacy is Important](why-wasabi/WhyPrivacyImportant.md)
+- [Why Privacy is Important](WhyPrivacyImportant.md)
 - [Privacy in Bitcoin](why-wasabi/BitcoinPrivacy.md) </br>
   -- [Address Reuse](why-wasabi/BitcoinPrivacy.md#address-reuse) </br>
   -- [Inputs and Outputs](why-wasabi/BitcoinPrivacy.md#inputs-and-outputs) </br>
